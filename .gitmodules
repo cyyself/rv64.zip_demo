@@ -1,0 +1,11 @@
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/cyyself/gcc.git
+	branch = autofmv_demo
+[submodule "pybinutils"]
+	path = pybinutils
+	url = https://github.com/cyyself/pybinutils.git
+[submodule "coremark"]
+	path = coremark
+	url = https://github.com/cyyself/coremark.git
+	branch = autofmv_demo
